@@ -7,8 +7,8 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="HenriqueThael-Java" height="30" width="55" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=blue"
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="HenriqueThael-Java" height="30" width="55" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+  <img align="right" alt="blue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div> 
 
   
